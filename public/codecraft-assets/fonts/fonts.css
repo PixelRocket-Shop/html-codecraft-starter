@@ -1,0 +1,23 @@
+@font-face { 
+    font-family: 'Open Sauce Sans';
+    font-weight: 400;
+    src: url('./Open-Sauce-Sans/TTF/OpenSauceSans-Regular.ttf'); 
+}
+
+@font-face { 
+    font-family: 'Open Sauce Sans';
+    font-weight: 500; 
+    src: url('./Open-Sauce-Sans/TTF/OpenSauceSans-Medium.ttf'); 
+}
+
+@font-face { 
+    font-family: 'Open Sauce Sans';
+    font-weight: 600; 
+    src: url('./Open-Sauce-Sans/TTF/OpenSauceSans-SemiBold.ttf'); 
+}
+
+@font-face { 
+    font-family: 'Open Sauce Sans';
+    font-weight: 700; 
+    src: url('./Open-Sauce-Sans/TTF/OpenSauceSans-Bold.ttf'); 
+}
